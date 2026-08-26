@@ -36,10 +36,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="75%" align="center">
-      <h3>📈 Contribution Activity</h3>
+      <h3>📈 Profile Details</h3>
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=LieL420&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Contribution Activity"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LieL420&theme=tokyonight"
+        alt="Profile Details"
         width="100%"
       />
     </td>
