@@ -41,35 +41,29 @@
 
 ### Featured projects
 
-<p align="center">
-  <a href="https://github.com/LieL420/sitssindex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LieL420&repo=sitssindex&theme=tokyonight&hide_border=true" alt="sitssindex repository card" />
-  </a>
-  <a href="https://github.com/LieL420/TEST-SITES-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LieL420&repo=TEST-SITES-&theme=tokyonight&hide_border=true" alt="TEST-SITES- repository card" />
-  </a>
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [sitssindex](https://github.com/LieL420/sitssindex) | A public web project and TypeScript experiment. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [TEST-SITES-](https://github.com/LieL420/TEST-SITES-) | A public repository for testing and experimenting with sites. | ![Web](https://img.shields.io/badge/Web-0e75b6?style=flat&logo=github&logoColor=white) |
 
 ---
 
 ### GitHub analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LieL420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LieL420&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LieL420&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/LieL420?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_repositories-3-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/LieL420?tab=overview">
+    <img src="https://img.shields.io/badge/Profile_active-2026-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile active" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LieL420&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LieL420&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
+> Check my latest activity directly on my [GitHub profile](https://github.com/LieL420).
 
 ---
 
