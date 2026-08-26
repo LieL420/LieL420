@@ -54,7 +54,13 @@
 | --- | --- | --- | --- | --- |
 | [LieL420](https://github.com/LieL420/LieL420) | My GitHub profile README | `main` | Public | Active |
 
-<h2 align="center">🛠️ Repository Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,figma,vercel&perline=13&size=10" alt="Tech Stack" />
+</p>
+
+<h2 align="center">⚙️ Repository Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-README-0e75b6?style=flat&logo=markdown&logoColor=white" alt="Markdown README" />
