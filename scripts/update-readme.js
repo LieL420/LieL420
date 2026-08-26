@@ -151,7 +151,13 @@ async function main() {
 | --- | --- | --- | ---: | ---: | --- |
 ${repoRows}
 
-<h2 align="center">🛠️ Detected Languages</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,figma,vercel&perline=13&size=10" alt="Tech Stack" />
+</p>
+
+<h2 align="center">📊 Detected Languages</h2>
 
 <p align="center">
   ${languageBadges}
